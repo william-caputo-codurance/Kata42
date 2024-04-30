@@ -1,0 +1,45 @@
+Objetivo.
+
+Criar um endpoint que calcule o preço do produto com base no seu ID, 
+incluindo taxa de imposto e descontos
+ao seu preço de acordo com o tipo de produto. 
+
+Requisitos
+- Deverá receber o ID do produto
+- Deverá retornar uma mensagem com o valor calculado.
+- Se o Id não existir, uma mensagem de erro deverá ser retornada
+- O imposto e desconto deverá ser calculado pelo tipo do produto
+
+
+Casos de teste:
+
+/calculate/1
+200
+Produto Mouse sai por R$R$57,50
+
+/calculate/2
+200
+Produto Teclado sai por R$69,00
+
+/calculate/3
+200
+Produto Monitor sai por R$770,00
+
+/calculate/4
+200
+Produto Cabo sai por R$5,25
+
+/calculate/5
+404
+Produto não encontrado
+
+Tabela:
+
+Produto não encontrado 
+ID|Produto    | Preço Original | Imposto | Desconto | 
+1 |Mouse      | 50             | 10%     | 5%       |  
+2 |Teclado    | 60             | 10%     | 5%       |
+3 |Monitor    | 600            | 20%     | 10%      |
+4 |Cabo       | 5              | 5%      | -        | 
+
+

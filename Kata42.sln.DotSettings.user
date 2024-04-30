@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=26a3c9b3_002Df110_002D4117_002D90d8_002Db2189ac61215/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AReturnThePriceWhenAddAProduct" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::4567E27E-6936-46D2-BC98-96A5C2F2434C::net7.0::Kata42.Test.AcceptanceTest.ShouldBeRunning&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4567E27E-6936-46D2-BC98-96A5C2F2434C::net7.0::Kata42.Test.AcceptanceTest.ShouldReturnTheCalculatedPrice&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4567E27E-6936-46D2-BC98-96A5C2F2434C::net7.0::Kata42.Test.CalculateControllerShould.ReturnTextWitheTheCalculatedPrice&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=4567e27e_002D6936_002D46d2_002Dbc98_002D96a5c2f2434c_0023Kata42_002ETests/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

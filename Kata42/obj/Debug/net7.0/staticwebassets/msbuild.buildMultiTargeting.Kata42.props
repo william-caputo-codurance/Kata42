@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Kata42.props" />
+</Project>
